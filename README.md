@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.PNG" alt="LynCrypt Logo" width="200"/>
+</p>
+
 # 🛡️ LynCrypt
 
 > ⚡ High-performance, key-locked encryption for ultra-secure communication — built on a novel cipher architecture.
